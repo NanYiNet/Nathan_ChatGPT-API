@@ -11,5 +11,5 @@
 // | Created: PHPStorm
 // +--------------------------------------------+
 return [
-    'OPENAI_API_KEY' => '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',
+    'OPENAI_API_KEY' => '',
 ];
